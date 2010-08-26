@@ -1,3 +1,8 @@
+MHV Revision 2 2010-08-26
+	Added standard ICSP for use on double sided boards
+	Added 3mm LED on pin 13 for use on double sided boards
+	Changed prototype area to pads only on the bottom layer
+
 MHV Revision 1 2010-08-25
 	Added TTL Serial
 	Added ICSP
