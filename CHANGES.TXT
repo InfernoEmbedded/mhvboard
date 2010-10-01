@@ -1,3 +1,18 @@
+MHV Revision 4 2010-10-01
+	Tidied silkscreen
+	Removed ICSP2 (the board can no longer function single-sided
+		use revision 3 if you cannot fabricate a double sided board)
+	Added a power LED
+	Fixed header spacing for Arduino shield compatibility
+	Added pin header for breadboard interfacing
+	Board relaid out from scratch
+	Extended JP8 to add reset for greater shield compatibility
+	Marked LED polarity on the silkscreen
+
+MHV Revision 3 2010-09-16
+	Added a solder to disable the LED
+	Change clock crystal to 20MHz
+
 MHV Revision 2 2010-08-26
 	Added standard ICSP for use on double sided boards
 	Added 3mm LED on pin 13 for use on double sided boards
