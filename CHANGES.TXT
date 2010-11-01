@@ -1,3 +1,7 @@
+MHV Revision 5 2010-11-01
+	Widened power traces
+	Relocated ICSP header for shield compatibility
+
 MHV Revision 4 2010-10-01
 	Tidied silkscreen
 	Removed ICSP2 (the board can no longer function single-sided
