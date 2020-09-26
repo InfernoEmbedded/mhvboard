@@ -1,0 +1,701 @@
+Archive member included because of file (symbol)
+
+A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+                              ./PWM-LED-Any-Pin.o (MHV_Timer16::setOutput1(unsigned int))
+A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                              A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o) (MHV_Timer8::MHV_Timer8())
+c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_mulsi3.o)
+                              A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o) (__mulsi3)
+c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_udivmodsi4.o)
+                              A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o) (__udivmodsi4)
+c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+                              c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o (exit)
+c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+                              ./PWM-LED-Any-Pin.o (__do_copy_data)
+c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+                              ./PWM-LED-Any-Pin.o (__do_clear_bss)
+c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_ctors.o)
+                              ./PWM-LED-Any-Pin.o (__do_global_ctors)
+c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_tablejump.o)
+                              c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_ctors.o) (__tablejump__)
+c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libc.a(eerd_byte_atmega328p.o)
+                              ./PWM-LED-Any-Pin.o (__eerd_byte_m328p)
+c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libc.a(eewr_byte_atmega328p.o)
+                              ./PWM-LED-Any-Pin.o (__eewr_byte_m328p)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+ .bss           0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+ .text          0x00000000        0x0 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+ .data          0x00000000        0x0 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+ .bss           0x00000000        0x0 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+ .text._ZN11MHV_Timer167currentEv
+                0x00000000       0x16 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+ .text._ZN11MHV_Timer166getTopEv
+                0x00000000       0x2a A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+ .text._ZN11MHV_Timer166setTopEj
+                0x00000000       0x34 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+ .text._ZN11MHV_Timer169setOutputEhj
+                0x00000000       0x30 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+ .text._ZN11MHV_Timer1610setOutput3Ej
+                0x00000000       0x16 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+ .text._ZN11MHV_Timer169getOutputEh
+                0x00000000       0x36 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+ .text._ZN11MHV_Timer1610getOutput1Ev
+                0x00000000       0x16 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+ .text._ZN11MHV_Timer1610getOutput3Ev
+                0x00000000       0x16 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+ .text._ZN11MHV_Timer1613connectOutputEh22mhv_timer_connect_type
+                0x00000000       0x4a A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+ .text._ZN11MHV_Timer1614connectOutput1E22mhv_timer_connect_type
+                0x00000000       0x1a A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+ .text._ZN11MHV_Timer1614connectOutput2E22mhv_timer_connect_type
+                0x00000000       0x16 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+ .text._ZN11MHV_Timer1614connectOutput3E22mhv_timer_connect_type
+                0x00000000       0x16 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+ .text._ZN11MHV_Timer167disableEv
+                0x00000000       0x36 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+ .text._ZN11MHV_Timer1610setPeriodsE19mhv_timer_prescalerjjj
+                0x00000000       0x58 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+ .text._ZN11MHV_Timer1610setPeriodsEmmm
+                0x00000000      0x178 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+ .text._ZN11MHV_Timer168trigger3Ev
+                0x00000000       0x1a A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+ .text          0x00000000        0x0 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+ .data          0x00000000        0x0 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+ .bss           0x00000000        0x0 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+ .text._ZN10MHV_Timer87currentEv
+                0x00000000       0x14 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+ .text._ZN10MHV_Timer812calculateTopEPmj
+                0x00000000       0x3a A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+ .text._ZN10MHV_Timer812getPrescalerEv
+                0x00000000       0x10 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+ .text._ZN10MHV_Timer822getPrescalerMultiplierEv
+                0x00000000       0x98 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+ .text._ZN10MHV_Timer86getTopEv
+                0x00000000       0x26 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+ .text._ZN10MHV_Timer86setTopEh
+                0x00000000       0x16 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+ .text._ZN10MHV_Timer89setOutputEhh
+                0x00000000       0x20 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+ .text._ZN10MHV_Timer810setOutput1Eh
+                0x00000000        0xe A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+ .text._ZN10MHV_Timer810setOutput2Eh
+                0x00000000        0xe A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+ .text._ZN10MHV_Timer89getOutputEh
+                0x00000000       0x22 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+ .text._ZN10MHV_Timer810getOutput1Ev
+                0x00000000        0xe A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+ .text._ZN10MHV_Timer810getOutput2Ev
+                0x00000000        0xe A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+ .text._ZN10MHV_Timer814connectOutput1E22mhv_timer_connect_type
+                0x00000000       0x1a A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+ .text._ZN10MHV_Timer814connectOutput2E22mhv_timer_connect_type
+                0x00000000       0x16 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+ .text._ZN10MHV_Timer87enabledEv
+                0x00000000       0x16 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+ .text._ZN10MHV_Timer87setModeE14mhv_timer_mode
+                0x00000000        0x6 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+ .text          0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_tablejump.o)
+ .data          0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_tablejump.o)
+ .bss           0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_tablejump.o)
+ .text          0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libc.a(eerd_byte_atmega328p.o)
+ .data          0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libc.a(eerd_byte_atmega328p.o)
+ .bss           0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libc.a(eerd_byte_atmega328p.o)
+ .text          0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libc.a(eewr_byte_atmega328p.o)
+ .data          0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libc.a(eewr_byte_atmega328p.o)
+ .bss           0x00000000        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libc.a(eewr_byte_atmega328p.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+LOAD ./PWM-LED-Any-Pin.o
+LOAD A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a
+LOAD c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a
+LOAD c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a
+LOAD c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a
+LOAD c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libc.a
+LOAD c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0xba2
+ *(.vectors)
+ .vectors       0x00000000       0x68 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000068                __ctors_start = .
+ *(.ctors)
+ .ctors         0x00000068        0x2 ./PWM-LED-Any-Pin.o
+                0x0000006a                __ctors_end = .
+                0x0000006a                __dtors_start = .
+ *(.dtors)
+                0x0000006a                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000006a        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+                0x0000006a                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000006a        0xc c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000076       0x16 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+                0x00000076                __do_copy_data
+ .init4         0x0000008c       0x10 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+                0x0000008c                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x0000009c       0x16 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_ctors.o)
+                0x0000009c                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000b2        0x8 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x000000ba        0x4 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+                0x000000ba                __vector_22
+                0x000000ba                __vector_1
+                0x000000ba                __vector_24
+                0x000000ba                __bad_interrupt
+                0x000000ba                __vector_6
+                0x000000ba                __vector_3
+                0x000000ba                __vector_23
+                0x000000ba                __vector_25
+                0x000000ba                __vector_13
+                0x000000ba                __vector_17
+                0x000000ba                __vector_19
+                0x000000ba                __vector_5
+                0x000000ba                __vector_4
+                0x000000ba                __vector_9
+                0x000000ba                __vector_2
+                0x000000ba                __vector_21
+                0x000000ba                __vector_15
+                0x000000ba                __vector_8
+                0x000000ba                __vector_14
+                0x000000ba                __vector_10
+                0x000000ba                __vector_16
+                0x000000ba                __vector_18
+                0x000000ba                __vector_20
+ .text          0x000000be      0x13c ./PWM-LED-Any-Pin.o
+                0x000000be                ledOn(void*)
+                0x000000c2                ledOff(void*)
+                0x000000c6                animationTrigger(void*)
+                0x00000116                __vector_7
+                0x00000162                __vector_11
+                0x000001ae                __vector_12
+                0x000001fa                . = ALIGN (0x2)
+ *(.text.*)
+ .text.startup  0x000001fa      0x162 ./PWM-LED-Any-Pin.o
+                0x000001fa                main
+ .text._ZN11MHV_Timer16C2EPVhS1_S1_PVjS3_S3_S3_S1_S3_
+                0x0000035c       0xa4 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+                0x0000035c                MHV_Timer16::MHV_Timer16(unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned int volatile*, unsigned int volatile*, unsigned int volatile*, unsigned int volatile*, unsigned char volatile*, unsigned int volatile*)
+                0x0000035c                MHV_Timer16::MHV_Timer16(unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned int volatile*, unsigned int volatile*, unsigned int volatile*, unsigned int volatile*, unsigned char volatile*, unsigned int volatile*)
+ .text._ZN11MHV_Timer1617setGenerationModeEv
+                0x00000400       0x80 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+                0x00000400                MHV_Timer16::setGenerationMode()
+ .text._ZN11MHV_Timer1610setOutput1Ej
+                0x00000480       0x16 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+                0x00000480                MHV_Timer16::setOutput1(unsigned int)
+ .text._ZN11MHV_Timer1610setOutput2Ej
+                0x00000496       0x16 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+                0x00000496                MHV_Timer16::setOutput2(unsigned int)
+ .text._ZN11MHV_Timer1610getOutput2Ev
+                0x000004ac       0x16 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+                0x000004ac                MHV_Timer16::getOutput2()
+ .text._ZN11MHV_Timer166enableEv
+                0x000004c2       0x62 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+                0x000004c2                MHV_Timer16::enable()
+ .text._ZN11MHV_Timer1611setTriggersEPFvPvES0_S2_S0_S2_S0_
+                0x00000524       0x34 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+                0x00000524                MHV_Timer16::setTriggers(void (*)(void*), void*, void (*)(void*), void*, void (*)(void*), void*)
+ .text._ZN10MHV_Timer8C2E14mhv_timer_typePVhS2_S2_S2_S2_S2_h
+                0x00000558       0x6c A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                0x00000558                MHV_Timer8::MHV_Timer8(mhv_timer_type, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char)
+                0x00000558                MHV_Timer8::MHV_Timer8(mhv_timer_type, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char)
+ .text._ZN10MHV_Timer8C2Ev
+                0x000005c4        0x2 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                0x000005c4                MHV_Timer8::MHV_Timer8()
+                0x000005c4                MHV_Timer8::MHV_Timer8()
+ .text._ZN10MHV_Timer818calculatePrescalerEmP19mhv_timer_prescalerPj
+                0x000005c6      0x208 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                0x000005c6                MHV_Timer8::calculatePrescaler(unsigned long, mhv_timer_prescaler*, unsigned int*)
+ .text._ZN10MHV_Timer813_setPrescalerE19mhv_timer_prescaler
+                0x000007ce       0x14 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                0x000007ce                MHV_Timer8::_setPrescaler(mhv_timer_prescaler)
+ .text._ZN10MHV_Timer812setPrescalerE19mhv_timer_prescaler
+                0x000007e2        0x6 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                0x000007e2                MHV_Timer8::setPrescaler(mhv_timer_prescaler)
+ .text._ZN10MHV_Timer817setGenerationModeEv
+                0x000007e8       0x78 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                0x000007e8                MHV_Timer8::setGenerationMode()
+ .text._ZN10MHV_Timer810setPeriodsE19mhv_timer_prescalerhh
+                0x00000860       0x5a A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                0x00000860                MHV_Timer8::setPeriods(mhv_timer_prescaler, unsigned char, unsigned char)
+ .text._ZN10MHV_Timer810setPeriodsEmm
+                0x000008ba       0xf2 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                0x000008ba                MHV_Timer8::setPeriods(unsigned long, unsigned long)
+ .text._ZN10MHV_Timer86enableEv
+                0x000009ac       0x84 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                0x000009ac                MHV_Timer8::enable()
+ .text._ZN10MHV_Timer87disableEv
+                0x00000a30       0x5c A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                0x00000a30                MHV_Timer8::disable()
+ .text._ZN10MHV_Timer88trigger1Ev
+                0x00000a8c       0x22 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                0x00000a8c                MHV_Timer8::trigger1()
+ .text._ZN10MHV_Timer88trigger2Ev
+                0x00000aae       0x1a A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                0x00000aae                MHV_Timer8::trigger2()
+ .text._ZN10MHV_Timer811setTriggersEPFvPvES0_S2_S0_
+                0x00000ac8       0x1c A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                0x00000ac8                MHV_Timer8::setTriggers(void (*)(void*), void*, void (*)(void*), void*)
+ .text.libgcc   0x00000ae4       0x3e c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_mulsi3.o)
+                0x00000ae4                __mulsi3
+ .text.libgcc   0x00000b22       0x44 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_udivmodsi4.o)
+                0x00000b22                __udivmodsi4
+ .text.libgcc   0x00000b66        0xc c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_tablejump.o)
+                0x00000b66                __tablejump2__
+                0x00000b6a                __tablejump__
+ .text.avr-libc
+                0x00000b72       0x10 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libc.a(eerd_byte_atmega328p.o)
+                0x00000b72                __eerd_byte_m328p
+ .text.avr-libc
+                0x00000b82       0x1c c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libc.a(eewr_byte_atmega328p.o)
+                0x00000b82                __eewr_byte_m328p
+                0x00000b84                __eewr_r18_m328p
+                0x00000b9e                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000b9e        0x0 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+                0x00000b9e                _exit
+                0x00000b9e                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000b9e        0x4 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000ba2                _etext = .
+
+.data           0x00800100        0x2 load address 0x00000ba2
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x1 ./PWM-LED-Any-Pin.o
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800102                . = ALIGN (0x2)
+ *fill*         0x00800101        0x1 00
+                0x00800102                _edata = .
+                0x00800102                PROVIDE (__data_end, .)
+
+.bss            0x00800102       0x45
+                0x00800102                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800102       0x45 ./PWM-LED-Any-Pin.o
+                0x00800102                pwmTimer
+                0x0080012d                animationTimer
+ *(.bss*)
+ *(COMMON)
+                0x00800147                PROVIDE (__bss_end, .)
+                0x00000ba2                __data_load_start = LOADADDR (.data)
+                0x00000ba4                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800147        0x0
+                0x00800147                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800147                PROVIDE (__noinit_end, .)
+                0x00800147                _end = .
+                0x00800147                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(mhvboardR7-initialProgram.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+MHV_Timer16::MHV_Timer16(unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned int volatile*, unsigned int volatile*, unsigned int volatile*, unsigned int volatile*, unsigned char volatile*, unsigned int volatile*) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer16::MHV_Timer16(unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned int volatile*, unsigned int volatile*, unsigned int volatile*, unsigned int volatile*, unsigned char volatile*, unsigned int volatile*) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+                                                  ./PWM-LED-Any-Pin.o
+MHV_Timer16::connectOutput(unsigned char, mhv_timer_connect_type) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer16::connectOutput1(mhv_timer_connect_type) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer16::connectOutput2(mhv_timer_connect_type) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer16::connectOutput3(mhv_timer_connect_type) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer16::current()                            A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer16::disable()                            A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer16::enable()                             A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+                                                  ./PWM-LED-Any-Pin.o
+MHV_Timer16::getOutput(unsigned char)             A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer16::getOutput1()                         A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer16::getOutput2()                         A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+                                                  ./PWM-LED-Any-Pin.o
+MHV_Timer16::getOutput3()                         A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer16::getTop()                             A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer16::setGenerationMode()                  A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer16::setOutput(unsigned char, unsigned int) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer16::setOutput1(unsigned int)             A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+                                                  ./PWM-LED-Any-Pin.o
+MHV_Timer16::setOutput2(unsigned int)             A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+                                                  ./PWM-LED-Any-Pin.o
+MHV_Timer16::setOutput3(unsigned int)             A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer16::setPeriods(mhv_timer_prescaler, unsigned int, unsigned int, unsigned int) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer16::setPeriods(unsigned long, unsigned long, unsigned long) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer16::setTop(unsigned int)                 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer16::setTriggers(void (*)(void*), void*, void (*)(void*), void*, void (*)(void*), void*) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+                                                  ./PWM-LED-Any-Pin.o
+MHV_Timer16::trigger3()                           A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer8::MHV_Timer8()                          A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                                                  A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer8::MHV_Timer8()                          A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::MHV_Timer8(mhv_timer_type, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                                                  ./PWM-LED-Any-Pin.o
+MHV_Timer8::MHV_Timer8(mhv_timer_type, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::_setPrescaler(mhv_timer_prescaler)    A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                                                  A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer8::calculatePrescaler(unsigned long, mhv_timer_prescaler*, unsigned int*) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                                                  A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer8::calculateTop(unsigned long*, unsigned int) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                                                  A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+MHV_Timer8::connectOutput1(mhv_timer_connect_type) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::connectOutput2(mhv_timer_connect_type) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::current()                             A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::disable()                             A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::enable()                              A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                                                  ./PWM-LED-Any-Pin.o
+MHV_Timer8::enabled()                             A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::getOutput(unsigned char)              A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::getOutput1()                          A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::getOutput2()                          A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::getPrescaler()                        A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::getPrescalerMultiplier()              A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::getTop()                              A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::setGenerationMode()                   A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::setMode(mhv_timer_mode)               A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::setOutput(unsigned char, unsigned char) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::setOutput1(unsigned char)             A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::setOutput2(unsigned char)             A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::setPeriods(mhv_timer_prescaler, unsigned char, unsigned char) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::setPeriods(unsigned long, unsigned long) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                                                  ./PWM-LED-Any-Pin.o
+MHV_Timer8::setPrescaler(mhv_timer_prescaler)     A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                                                  ./PWM-LED-Any-Pin.o
+MHV_Timer8::setTop(unsigned char)                 A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+MHV_Timer8::setTriggers(void (*)(void*), void*, void (*)(void*), void*) A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                                                  ./PWM-LED-Any-Pin.o
+MHV_Timer8::trigger1()                            A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                                                  ./PWM-LED-Any-Pin.o
+MHV_Timer8::trigger2()                            A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                                                  ./PWM-LED-Any-Pin.o
+__bad_interrupt                                   c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__bss_end                                         c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+__bss_start                                       c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+__ctors_end                                       c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_ctors.o)
+__ctors_start                                     c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_ctors.o)
+__data_end                                        c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+__data_load_start                                 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+__data_start                                      c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+__do_clear_bss                                    c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+                                                  A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                                                  A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+                                                  ./PWM-LED-Any-Pin.o
+__do_copy_data                                    c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+                                                  A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                                                  A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+                                                  ./PWM-LED-Any-Pin.o
+__do_global_ctors                                 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_ctors.o)
+                                                  ./PWM-LED-Any-Pin.o
+__eerd_byte_m328p                                 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libc.a(eerd_byte_atmega328p.o)
+                                                  ./PWM-LED-Any-Pin.o
+__eewr_byte_m328p                                 c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libc.a(eewr_byte_atmega328p.o)
+                                                  ./PWM-LED-Any-Pin.o
+__eewr_r18_m328p                                  c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libc.a(eewr_byte_atmega328p.o)
+__heap_end                                        c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__init                                            c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__mulsi3                                          c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_mulsi3.o)
+                                                  A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+                                                  A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer16.o)
+__stack                                           c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__tablejump2__                                    c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_tablejump.o)
+__tablejump__                                     c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_tablejump.o)
+                                                  c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_ctors.o)
+__udivmodsi4                                      c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_udivmodsi4.o)
+                                                  A:\eclipse\mhvlib/ATmega328P_20MHz\libmhvlib.a(MHV_Timer8.o)
+__vector_1                                        c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_10                                       c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_11                                       ./PWM-LED-Any-Pin.o
+                                                  c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_12                                       ./PWM-LED-Any-Pin.o
+                                                  c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_13                                       c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_14                                       c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_15                                       c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_16                                       c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_17                                       c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_18                                       c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_19                                       c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_2                                        c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_20                                       c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_21                                       c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_22                                       c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_23                                       c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_24                                       c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_25                                       c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_3                                        c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_4                                        c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_5                                        c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_6                                        c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_7                                        ./PWM-LED-Any-Pin.o
+                                                  c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_8                                        c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_9                                        c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_default                                  c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+__vectors                                         c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+_exit                                             c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+animationTimer                                    ./PWM-LED-Any-Pin.o
+animationTrigger(void*)                           ./PWM-LED-Any-Pin.o
+exit                                              c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+                                                  c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+ledOff(void*)                                     ./PWM-LED-Any-Pin.o
+ledOn(void*)                                      ./PWM-LED-Any-Pin.o
+main                                              ./PWM-LED-Any-Pin.o
+                                                  c:/mhvavrtools/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm328p.o
+pwmTimer                                          ./PWM-LED-Any-Pin.o
